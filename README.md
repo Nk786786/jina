@@ -102,7 +102,7 @@ As a starter, you can try out our "Hello, World" - a simple demo of image neural
 jina hello-world
 ```
 
-...or even easier for Docker users, **no install required**:
+...or even easier for Docker users, **no install is required**:
 
 ```bash
 docker run -v "$(pwd)/j:/j" jinaai/jina hello-world --workdir /j && open j/hello-world.html  # replace "open" with "xdg-open" on Linux
@@ -414,7 +414,7 @@ As part of our open governance model, we host Jina's [Engineering All Hands]((ht
 
 The meeting will also be live-streamed and later published to our [YouTube channel](https://youtube.com/c/jina-ai).
 
-## Join Us
+## Please join Us
 
 Jina is an open-source project. [We are hiring](https://jobs.jina.ai) full-stack developers, evangelists, and PMs to build the next neural search ecosystem in open source.
 
